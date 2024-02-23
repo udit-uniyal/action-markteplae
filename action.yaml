@@ -7,4 +7,5 @@ inputs:
     required: true
     default: 'Dockerfile'
 
-icon: icon.svg
+branding:
+  icon: './icon.svg'
