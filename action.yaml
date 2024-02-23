@@ -1,1 +1,10 @@
+name:  Container Scan
+
+
+inputs:
+  dockerfile_context:
+    description: 'The context of the Dockerfile to use for building the image.'
+    required: true
+    default: 'Dockerfile'
+
 icon: icon.svg
